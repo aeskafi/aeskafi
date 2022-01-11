@@ -55,4 +55,4 @@
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=arhameskafi&show_icons=true alt=arhameskafi /> </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/arhameskafi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arhameskafi" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/arhameskafi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arhameskafi" /></a></p><br><br>

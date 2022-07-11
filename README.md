@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/arhameskafi" target="blank"><img src="https://img.shields.io/twitter/follow/arhameskafi?logo=twitter&style=for-the-badge" alt="arhameskafi" /></a> </p>
 
-- 🔭 I’m currently working on [PQS Official website](https://parsquality.co.nz/)
+- 🔭 I’m currently working as project manager in [BHuman.ai](https://bhuman.ai/)
 
 - 🌱 I’m currently learning **Server-side Development with NodeJS, Express and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aeskafi](https://github.com/aeskafi)
 
-- 💬 Ask me about **javascript, react, react-native**
+- 💬 Ask me about **javascript, react, react-native, project management**
 
 - 📫 How to reach me **arham.eskafi@gmail.com**
 

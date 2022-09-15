@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/arhameskafi" target="blank"><img src="https://img.shields.io/twitter/follow/arhameskafi?logo=twitter&style=for-the-badge" alt="arhameskafi" /></a> </p>
 
-- 🔭 I’m currently working as project manager in [BHuman.ai](https://bhuman.ai/)
+- 🔭 I’m currently working as project manager in [PQS](https://parsquality.co.nz/)
 
-- 🌱 I’m currently learning **Server-side Development with NodeJS, Express and MongoDB**
+- 🌱 I’m currently learning **NextJS and Jira Advanced updates**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aeskafi](https://github.com/aeskafi)
 

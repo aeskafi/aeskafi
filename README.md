@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/arhameskafi" target="blank"><img src="https://img.shields.io/twitter/follow/arhameskafi?logo=twitter&style=for-the-badge" alt="arhameskafi" /></a> </p>
 
-- 🔭 I’m currently seeking a new job position as project manager or fullstack developer!
+- 🔭 I’m currently seeking a new job position as project manager or fullstack developer or junior IOS developer!
 
-- 🌱 I’m currently learning **NextJS and Jira Advanced updates**
+- 🌱 I’m currently learning **Swift and SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aeskafi](https://github.com/aeskafi)
 

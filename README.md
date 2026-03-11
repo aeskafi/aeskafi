@@ -52,8 +52,12 @@ Often described as the **"glue"** of a team, I thrive on solving complex technic
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aeskafi&show_icons=true&theme=tokyonight&count_private=true" alt="Arham's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeskafi&layout=compact&theme=tokyonight&hide=css,html" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aeskafi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Arham's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeskafi&layout=compact&theme=tokyonight&hide=css,html&count_private=true" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeskafi&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---

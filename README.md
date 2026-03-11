@@ -1,53 +1,73 @@
 <h1 align="center">Hi 👋, I'm Arham Eskafi Noghani</h1>
 
-<h3 align="center">A passionate fullstack developer from !!!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aeskafi&label=Profile%20views&color=0e75b6&style=flat" alt="aeskafi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/arhameskafi" target="blank"><img src="https://img.shields.io/twitter/follow/arhameskafi?logo=twitter&style=for-the-badge" alt="arhameskafi" /></a> </p>
-
-- 🔭 I’m currently seeking a new job position as a fullstack developer or IOS developer!
-
-- 🌱 I’m currently learning **Swift and SwiftUI** and working some projects with **Refine**
-
-- 👨‍💻 All of my projects are available at [https://github.com/aeskafi](https://github.com/aeskafi)
-
-- 💬 Ask me about **javascript, react, react-native, project management**
-
-- 📫 How to reach me **arham.eskafi@gmail.com**
-
-- 👨‍💻 All of my projects are available at [aeskafi](https://github.com/aeskafi)
-
-- ⚡ Fun fact **I prefer chocolate to anything || Change my mind!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arhameskafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arhameskafi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arham-eskafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arham-eskafi" height="30" width="40" /></a>
-<a href="https://instagram.com/arhameskafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arhameskafi" height="30" width="40" /></a>
+<p align="center">
+  <strong>Full-Stack Architect | Project Manager | Technical Leader</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-        <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://arham.dev">Portfolio</a> •
+  <a href="https://linkedin.com/in/arham-eskafi">LinkedIn</a> •
+  <a href="https://twitter.com/arhameskafi">Twitter</a>
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/arhameskafi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arhameskafi" /></a></p><br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aeskafi&label=Profile%20views&color=0e75b6&style=flat-square" alt="aeskafi" />
+</p>
+
+---
+
+### 💡 About Me
+
+I am a **Full-Stack Developer and Project Manager** who has been obsessed with technology since my first lines of code on a **Commodore 64** in the 90s. With a background as a **CTO** and technical leader, I specialize in bridging the gap between high-level business strategy and robust, scalable engineering.
+
+Often described as the **"glue"** of a team, I thrive on solving complex technical blockers while keeping team spirits high. My work spans across web, mobile, AI integration, and game development.
+
+- 🔭 **Currently:** Seeking a new challenge as a Full-Stack or iOS Developer.
+- 🌱 **Learning:** Swift & SwiftUI for native iOS experiences.
+- 🎮 **Side Quest:** Developing a 2D Pixel Art game in **Godot** (Targeting Steam 2026).
+- 🍫 **Fact:** Chocolate is the only acceptable currency. Change my mind.
+
+---
+
+### 🛠️ Technical Ecosystem
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
+| **DevOps/AI** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+
+---
+
+### 🚀 Highlighted Impact
+
+- **BHuman AI:** Led the technical direction for an AI-driven video personalization platform.
+- **Parify:** Built a scalable AI ESL marketplace with seamless Stripe integration.
+- **PIMS Tech:** Architected a comprehensive Health & Safety solution deployed via Docker on AWS.
+- **Beezness LLC:** Developed tools focused on digital sovereignty and bypassing state-level censorship.
+
+---
+
+### 📊 Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aeskafi&show_icons=true&theme=tokyonight&count_private=true" alt="Arham's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeskafi&layout=compact&theme=tokyonight&hide=css,html" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:arham.eskafi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/arham-eskafi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/arhameskafi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/arhameskafi">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee" />
+  </a>
+</p>

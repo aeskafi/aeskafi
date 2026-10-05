@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+Thumbs.db
+
+# Editor & workspace directories
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
